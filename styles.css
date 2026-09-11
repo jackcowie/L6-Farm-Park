@@ -1,0 +1,30 @@
+/* Background colours */
+header, footer {background-color:#df80ff;}
+nav {background-color:blueviolet;}
+main {background-color:greenyellow;}
+
+/* text properties */
+h1 {front-size:32px;
+	color:white;
+	font-family: Tahohma;
+text-align: center;}
+
+/* Navigation List propertiea */
+nav ul {list-style-type:none}
+a {color:black;font-family: Tahoma;}
+nav ul li {float:left;width:120px;text-align:center}
+nav ul li a {display:block;padding:10px}
+nav ul li a :hover {background-color:greenyellow;color:darkred;}
+
+nav{height:38px;}
+
+/* Margins */
+nav,main footer {margins-top:5px}
+body {margin:auto}
+p{margin-bottom:15px}
+
+p{
+	color:black;
+	font-size: Tahoma;
+
+{
